@@ -3,7 +3,7 @@ import './Track.css';
 
 class Track extends React.Component {
     renderAction() {
-        if (isRemoval) {
+        if (this.props.isRemoval) {
             <button className="Track-action">-</button>
         } else {
             <button className="Track-action">+</button>
