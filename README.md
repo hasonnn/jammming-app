@@ -1,3 +1,9 @@
+Developed with: React, Spotify API
+This React web app connects to the Spotify API allowing users to 
+search the Spotify library, create a custom playlist, then save it to
+their Spotify account.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
